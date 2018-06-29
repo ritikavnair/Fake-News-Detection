@@ -1,6 +1,6 @@
-############################################################################################################
-####################################        FINAL PROJECT        ###########################################
-############################################################################################################
+#############################################################################################
+####################################        FINAL PROJECT        ############################
+#############################################################################################
 
  GOAL: Detection of Fake News using various Machine Learning Classifier algorithms and evaluation of their 
 	   performance
@@ -38,7 +38,7 @@ Task 4: Implementation of Data Visualization code via graph plots:
  	  
 
 		
-############################################################################################################	
+############################################################################################	
 
  INSTALLATION GUIDE:
 
@@ -54,7 +54,7 @@ Task 4: Implementation of Data Visualization code via graph plots:
 			   6. Run Command : 'pip install matplotlib'
 			   7. Run Command : 'pip install nltk'
 		       
-#############################################################################################################
+###########################################################################################
 
 
  STEPS TO RUN PROGRAM:
@@ -64,4 +64,10 @@ Task 4: Implementation of Data Visualization code via graph plots:
 		> Run the command:
 			python Driver.py
 		> Follow the instructions as shown in the command prompt
-		     
+
+##########################################################################################
+Project Members:
+----------------
+Ritika Nair
+Shubham Rastogi
+Tridiv Nandi
